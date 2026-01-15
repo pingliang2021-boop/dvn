@@ -24,7 +24,7 @@ _G.FarDistance = 170
 
 
 -- NPC Settings
-local weaponNames = {"DMR", "Gift of Fire", "Rifle"}
+local weaponNames = {"DMR", "Gift of Fire", "Rifle", "Burst Rifle", "Medical Bow", "Vitabow"}
 local excludedEnemies = {"Jetpacker", "APU", "Ranger", "Platform"}
 
 
